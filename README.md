@@ -1,16 +1,40 @@
-# screeny
+# Flutter Sample UI Designs
 
-A new Flutter project.
+This Flutter project contains sample page UI designs for testing and inspiration.
+
+## About
+
+The project is currently focused on **login page designs** only.  
+It serves as a small collection of sample authentication screens that can be used as a reference for building Flutter apps.
+
+## Features
+
+- Multiple sample login page UI designs
+- Clean and simple Flutter implementation
+- Useful for learning, practice, and inspiration
+
+## Project Status
+
+Currently available:
+
+- Login pages
+
+Planned additions may include:
+
+- Sign up pages
+- Forgot password pages
+- Home screens
+- Profile screens
+- Dashboard layouts
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure Flutter is installed
+2. Clone the repository
+3. Run the following commands:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+flutter run
